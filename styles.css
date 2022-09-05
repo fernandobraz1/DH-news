@@ -1,0 +1,41 @@
+body {
+    margin: auto;
+    width: 50%;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 22px;
+    padding: 30px;
+}
+
+main{
+    text-align: justify;
+}
+
+#titulo {
+    color:rgb(231, 21, 91);
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+ul{
+    border-top: 1px solid rgb(102, 101, 101);
+
+    text-align: center;
+    padding: 0 30px 0 30px;
+}
+
+#icones{
+    display: inline-block;
+    padding: 30px;
+}
+
+#icon{
+    width: 50px;
+    height: 30px;
+}
+
+footer{
+    margin-top: 30px;
+}
